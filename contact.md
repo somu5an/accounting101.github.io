@@ -10,7 +10,7 @@ title: Contact Long Haul
     <p>Feel free to ask any questions or provide feedback directly on the relevant blog post.<br>But if you prefer sending a private message then you have come to the right spot.</p>
     <p>Fill in the form and I will get in touch as soon as I can!</p>
   </div>
-  <form action="http://formspree.io/f/xdoyjdzw" method="POST">
+  <form action="https://formspree.io/f/xdoyjdzw" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
