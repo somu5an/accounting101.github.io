@@ -1,24 +1,22 @@
 ---
 layout: default
-title: About Long Haul
+title: About Accounting101
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About</h1>
 	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">Accounting 101 is your gateway to understanding the basics of finance and accounting.</p>
+	<p>This site is for people who have been to <a href="http://investopedia.com">Investopedia</a> for technical definitions but are still scratching their heads, nowhere close to understanding the concept.
+</p>
+	<h2>Exactly Who Is This For</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Students who want to learn the fundamentals in a fun and easy way</li>
+  		<li>Candidates of licensure exams looking for effective mnemonics</li>
+  		<li>Young professionals looking for investment ideas</li>
+  		<li>Seasoned professionals struggling to explain theories in a language digestible by clients and colleagues</li>
+      <li>Parents who slept during finance classes but now need to manage their household income</li>
+  		<li>Pensioners assessing their retirement portfolio</li>
+  		<li>People who have mastered the basics but are bored in their commute</li>
   	</ul>
 </div>
