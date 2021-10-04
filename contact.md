@@ -7,7 +7,7 @@ title: Contact Long Haul
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">I would love to hear from you!</p>
-    <p>Feel free to ask any questions or provide feedback directly on the relevant blog post. But if you prefer sending a private message then you have come to the right spot.</p>
+    <p>Feel free to ask any questions or provide feedback directly on the relevant blog post.<br>But if you prefer sending a private message then you have come to the right spot.</p>
     <p>Fill in the form and I will get in touch as soon as I can!</p>
   </div>
   <form action="http://formspree.io/f/xdoyjdzw" method="POST">
