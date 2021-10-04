@@ -7,7 +7,7 @@ title: About Accounting101
 	<h1 class="pageTitle">About</h1>
 	<img src="{{ '/assets/img/touring.png' }}" alt="">
 	<p class="intro">Accounting 101 is your gateway to understanding the basics of finance and accounting.</p>
-	<p>This site is for people who have been to <a href="http://investopedia.com">Investopedia</a> for technical definitions but are still scratching their heads, nowhere close to understanding the concept.
+	<p>This site is for people who get confused reading <a href="http://investopedia.com">Investopedia</a>'s jargon-filled technical definitions.
 </p>
 	<h2>Exactly Who Is This For</h2>
 	<ul>
