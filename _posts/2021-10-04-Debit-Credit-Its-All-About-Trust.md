@@ -20,7 +20,7 @@ This translates to: I have been entrusted with $100 cash by the owner.
 
 Congratulations, you have just made your very first accounting entry!
 
-Let’s suppose, the owner wanted to sell more bananas but didn't have the money to add more capital. He went to a neighbor and borrowed $50. Here's our record of the additional $50 cash entrusted to us:
+Let’s suppose, the owner wanted to sell more bananas but didn't have the money to add more capital. He went to a neighbor and borrowed $50. Here's our record of the additional $50 cash entrusted to you:
 
 | Entry (2) |              |     |
 | --------- | ------------ | --- |
@@ -35,11 +35,11 @@ Here’s a tally of both transactions:
 |                | Owner’s Capital $100  |
 | _Total_ _$150_ |    _Total_ _$150_     |
 
-Now, two parties have entrusted us with their money: $100 from the owner and $50 from the neighbor for a total of $150 cash.
+Now, two parties have entrusted you with their money: $100 from the owner and $50 from the neighbor for a total of $150 cash.
 
 Later in the afternoon, you went shopping with the owner in a nearby public market bringing along the $150 cash. You paid a vendor $130 in exchange for bananas. How would you record this transaction?
 
-Our initial idea of Debit and Credit seems not appropriate in this case since there is no change to the $150 amount entrusted to us. You are simply exchanging $130 cash to $130 worth of bananas. To record this transaction you book:
+Our initial idea of Debit and Credit seems not appropriate in this case since there is no change to the $150 amount entrusted to you. You are simply exchanging $130 cash to $130 worth of bananas. To record this transaction you book:
 
 | Entry (3) |         |      |
 | --------- | ------- | ---- |
