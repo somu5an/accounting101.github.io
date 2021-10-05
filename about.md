@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Accounting101
+title: About Accounting 101
 ---
 
 <div class="post">
