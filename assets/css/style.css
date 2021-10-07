@@ -932,7 +932,7 @@ dd {
   .footer .container {
     border-top-color: #1a1a1a;
   }
-  tr:nth-child(2n) {
+  tr:nth-child(even) {
     background-color: gray;
   }
   th {
