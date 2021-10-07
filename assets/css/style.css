@@ -935,6 +935,9 @@ dd {
   tr:nth-child(even) {
     background-color: gray;
   }
+  tr:nth-child(odd) {
+    background-color: darkgrey;
+  }
   th {
     background-color: gray;
   }
