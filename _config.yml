@@ -1,7 +1,7 @@
-title: Accounting 101
-description: Basic Accounting and Finance for the bored commuter
+title: somuSan Blog
+description: I'm just regular everyday normal mofo
 
-url: http://accounting101.github.io
+url: http://somu5an.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,13 +22,14 @@ navigation:
     url: /contact
 
 social:
-  github: accounting101
-  twitter: bananaqpodcast
-  facebook: bananaqpodcast
-  email: accounting101@abadiez.com
-  linkedin: reynanteabadiez
+#   github: accounting101
+  twitter: somu5an
+#   facebook: bananaqpodcast
+  email: somusan997@gmail.com
+#   linkedin: reynanteabadiez
 
-google_analytics: "G-2W9ENQ6M37"
+google_analytics: "G-1KFQ5X7BHG"
 
 disqus:
-  shortname: accounting101
+  shortname: https-somu5an-github-io
+
